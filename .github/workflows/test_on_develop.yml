@@ -1,4 +1,4 @@
-name: Swift
+name: CI
 
 on:
   push:
@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Build
-      run: swift build -v
     - name: Run tests
       run: |
         xcodebuild test -project MiniSuperApp.xcodeproj -scheme MiniSuperApp -destination 'platform=iOS Simulator,name=iPhone 11 Pro,OS=14.4'

@@ -15,4 +15,4 @@ jobs:
     - uses: actions/checkout@v2
     - name: Run tests
       run: |
-        xcodebuild test -project MiniSuperApp.xcodeproj -scheme MiniSuperApp -destination 'platform=iOS Simulator,name=iPhone 11 Pro,OS=latest'
+        xcodebuild -project MiniSuperApp.xcodeproj -scheme MiniSuperApp -destination 'platform=iOS Simulator,name=iPhone 11 Pro,OS=latest'

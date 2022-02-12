@@ -3,14 +3,12 @@
     <img src="https://img.shields.io/badge/강의-패스트캠퍼스-red?style=flat" />
   </a>
   <a href="https://soojin.ro">
-    <img src="https://img.shields.io/badge/iOS개발자-노수진-orange?style=flat" />
+    <img src="https://img.shields.io/badge/iOS개발자-이기택-orange?style=flat" />
   </a>
   <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus">
     <img src="https://img.shields.io/badge/실습 프로젝트-미니슈퍼앱-378805?style=flat" />
   </a>
-  <a href="https://github.com/nsoojin/MiniSuperApp-fastcampus/discussions/categories/아무-질문이나-환영합니다">
-    <img src="https://img.shields.io/badge/질문-환영-ffda00?style=flat" />
-  </a>
+
 </div>
 
 ### "Ribs Composition 을 사용한 아키텍처 샘플 토이 프로젝트 실습입니다."
